@@ -1,0 +1,107 @@
+.body{
+background-color: black;
+}
+
+.flexcontainer{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    
+}
+
+.box1{
+    background-color: darkgreen;
+    text-align: center;
+    color: white;
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+    padding: 5px;
+    flex-grow: 1;
+    border-radius: 5px;
+    border: white 1px solid;
+}
+
+.box2{
+    background-color: darkviolet;
+    text-align: center;
+    color: white;
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+    padding: 5px;
+    border-radius: 5px;
+    border: white 1px solid;
+}
+
+.box3{
+    background-color: darkslategrey;
+    text-align: center;
+    color: white;
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+    padding: 5px;
+    border-radius: 5px;
+    border: white 1px solid;
+}
+
+.box4{
+    background-color: darkslateblue;
+    text-align: center;
+    color: white;
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+    padding: 5px;
+    border-radius: 5px;
+    border: white 1px solid;
+    flex-grow: 1;
+}
+
+.box5{
+    background-color: darkmagenta;
+    text-align: center;
+    color: white;
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+    padding: 5px;
+    border-radius: 5px;
+    border: white 1px solid;
+}
+
+.box6{
+    background-color: brown;
+    text-align: center;
+    color: white;
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+    padding: 5px;
+    border-radius: 5px;
+    border: white 1px solid;
+    flex-grow: 1;
+}
+
+.box7{
+    background-color: darkslategrey;
+    text-align: center;
+    color: white;
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+    padding: 5px;
+    border-radius: 5px;
+    border: white 1px solid;
+    flex-grow: 1;
+}
+
+
+.linebreak{
+    background-color: darkgray;
+    height: 2px;
+    flex-basis: 100%;
+}
+
+
